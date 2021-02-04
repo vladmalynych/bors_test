@@ -1,3 +1,3 @@
 # bors_test
 
-test bors1
+test bors2
