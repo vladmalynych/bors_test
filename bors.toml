@@ -1,0 +1,9 @@
+status = [ "ci-test" ]
+pr_status = [ "ci-test" ]
+required_approvals = 0
+delete_merged_branches = true
+update_base_for_deletes = true
+block_labels = [ "do not merge", "blocked" ]
+use_squash_merge = true
+
+timeout_sec = 3600 # One hour
