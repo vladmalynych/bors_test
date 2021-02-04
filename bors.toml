@@ -1,5 +1,5 @@
-status = [ "ci/circleci: run" ]
-pr_status = [ "ci/circleci: run" ]
+status = [ "ci/circleci" ]
+pr_status = [ "ci/circleci" ]
 required_approvals = 0
 delete_merged_branches = true
 update_base_for_deletes = true
