@@ -1,4 +1,4 @@
-status = [ "ci/circleci: run" ]
+status = [ "ci/circleci: run", "bors-check-day-off" ]
 pr_status = [ "ci/circleci: run" ]
 required_approvals = 0
 delete_merged_branches = true
