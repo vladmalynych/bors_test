@@ -1,4 +1,3 @@
 # bors_test
 
-test bors2
-Test PR
+Testing bors repo
