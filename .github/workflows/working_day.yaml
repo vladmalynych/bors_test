@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Validate day of the week
-        run: if (($(date '+%u') <= 0 || $(date '+%u') >= 4)); then exit 1; fi
+        run: if (($(date '+%u') <= 0 || $(date '+%u') >= 2)); then exit 1; fi
