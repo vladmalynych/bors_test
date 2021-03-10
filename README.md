@@ -1,3 +1,3 @@
 # bors_test
 
-Testing bors repo (test1)
+Testing bors repo (test2)
